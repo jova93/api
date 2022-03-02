@@ -1,0 +1,56 @@
+[
+    {
+        "productId": 1,
+        "productNumber": "001",
+        "productImage": "images/generic-image-course.jpg",
+        "productTitle": "Title1",
+        "productDescription": "Description1",
+        "productDurationHrs": 1,
+        "productPrice": 1000
+    },
+    {
+        "productId": 2,
+        "productNumber": "002",
+        "productImage": "images/generic-image-course.jpg",
+        "productTitle": "Title2",
+        "productDescription": "Description2",
+        "productDurationHrs": 2,
+        "productPrice": 2000
+    },
+    {
+        "productId": 3,
+        "productNumber": "003",
+        "productImage": "images/generic-image-course.jpg",
+        "productTitle": "Title3",
+        "productDescription": "Description3",
+        "productDurationHrs": 3,
+        "productPrice": 3000
+    },
+    {
+        "productId": 4,
+        "productNumber": "004",
+        "productImage": "images/generic-image-course.jpg",
+        "productTitle": "Title4",
+        "productDescription": "Description4",
+        "productDurationHrs": 4,
+        "productPrice": 4000
+    },
+    {
+        "productId": 5,
+        "productNumber": "005",
+        "productImage": "images/generic-image-course.jpg",
+        "productTitle": "Title5",
+        "productDescription": "Description5",
+        "productDurationHrs": 5,
+        "productPrice": 5000
+    },
+    {
+        "productId": 6,
+        "productNumber": "006",
+        "productImage": "images/generic-image-course.jpg",
+        "productTitle": "Title6",
+        "productDescription": "Description6",
+        "productDurationHrs": 6,
+        "productPrice": 6000
+    }
+]
