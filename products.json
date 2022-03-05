@@ -2,7 +2,7 @@
     {
         "productId": 1,
         "productNumber": "001",
-        "productImage": "images/generic-image-course.jpg",
+        "productImage": "images/angular-logo.png",
         "productTitle": "Title1",
         "productDescription": "Description1",
         "productDurationHrs": 1,
@@ -11,7 +11,7 @@
     {
         "productId": 2,
         "productNumber": "002",
-        "productImage": "images/generic-image-course.jpg",
+        "productImage": "images/html-css-logo.png",
         "productTitle": "Title2",
         "productDescription": "Description2",
         "productDurationHrs": 2,
@@ -20,7 +20,7 @@
     {
         "productId": 3,
         "productNumber": "003",
-        "productImage": "images/generic-image-course.jpg",
+        "productImage": "images/javascript-logo.png",
         "productTitle": "Title3",
         "productDescription": "Description3",
         "productDurationHrs": 3,
@@ -29,7 +29,7 @@
     {
         "productId": 4,
         "productNumber": "004",
-        "productImage": "images/generic-image-course.jpg",
+        "productImage": "images/node-js-logo.png",
         "productTitle": "Title4",
         "productDescription": "Description4",
         "productDurationHrs": 4,
